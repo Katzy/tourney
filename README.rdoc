@@ -1,0 +1,14 @@
+== README
+
+This application will serve as the new website and hub for the Mission San Jose Invitational Tournament.
+
+The tournament hosts over 75 schools and is widely regarded as a top 10 tournament in the state of California.
+
+Users will consist of moderators, coaches and the general public.
+
+Only moderators and coaches will have logins in V 1.0.
+
+The site will facilitate and streamline the importing of wrestler information to mitigate the bottleneck of data entry that is required to run the tournament.
+
+This will take pressure off the tournament director and provide for a more efficiently run tournament and an even higher quality event.
+
